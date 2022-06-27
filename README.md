@@ -1,3 +1,3 @@
-#[Philip]s Notes
-# This is an H1 header
-###### This is an H6 header
+# Philip's Notes
+## Summary
+  This repository contains all of the notes taken by [Philip](https://github.com/Pwsjas) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Development Bootcamp.
